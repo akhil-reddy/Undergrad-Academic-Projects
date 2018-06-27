@@ -1,4 +1,4 @@
 # Undergrad-Academic-Projects
-List of all mini-projects/projects done during my undergraduation.
+List of all mini-projects / projects done during my undergraduation.
 
-Go to the respective folders to explore more about them.
+Go to their respective folders to explore more about them.
